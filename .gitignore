@@ -1,3 +1,5 @@
 .Archive/
 .DS_Store
 .markeditor/
+*.swp
+*.swo
