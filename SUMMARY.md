@@ -7,7 +7,7 @@
     * [w0第1次组会](w0/w0n1.md)
 
 ## 工具协同
-    * [如何使用Github桌面端](tools/how-to-use-github.md)
+    * [如何使用Github桌面端](tools/how-to-use-github-desktop-app.md)
 
 ## 成员有话说
 	* [壹志](1zhi)
