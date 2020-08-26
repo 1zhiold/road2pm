@@ -1,4 +1,4 @@
-如何在同一台笔记本下设置多个 github 的账号
+如何在同一台设备下设置多个 github 的账号的ssh访问
 
 
 https://www.jianshu.com/p/e50aeb57ea57
