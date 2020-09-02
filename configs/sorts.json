@@ -10,6 +10,7 @@
     ], 
     "1zhi": [
         "\u65f6\u95f4\u8bb0\u5f55\u548c\u5206\u6790.md", 
+        "w1.md", 
         "\u5b66\u4e60\u8282\u594f\u517b\u6210.md"
     ], 
     "w0": [
@@ -21,18 +22,19 @@
     "__positions": {
         "bobo": 3, 
         "w0/w0n2.md": 7002, 
-        "tools/how-to-use-github-desktop-app.md": 6003, 
+        "1zhi/w1.md": 1002, 
         "tools/gitbook-guide.md": 6004, 
         "w0/w0n1.md": 7003, 
         "33": 2, 
         "tools/how-to-use-markdown.md": 6001, 
         "w0/w0n3.md": 7001, 
+        "tools/how-to-use-github-desktop-app.md": 6003, 
         "lvyao": 4, 
         "1zhi/\u65f6\u95f4\u8bb0\u5f55\u548c\u5206\u6790.md": 1001, 
         "1zhi": 1, 
         "tools": 6, 
         "tools/ssh.md": 6002, 
-        "1zhi/\u5b66\u4e60\u8282\u594f\u517b\u6210.md": 1002, 
+        "1zhi/\u5b66\u4e60\u8282\u594f\u517b\u6210.md": 1003, 
         "tengteng": 5, 
         "w0": 7, 
         "w0/mind-brainstorm.md": 7004
@@ -46,19 +48,20 @@
     "__raw_positions": {
         "bobo": 3, 
         "w0/w0n2.md": 2, 
-        "tools/how-to-use-github-desktop-app.md": 3, 
+        "1zhi/w1.md": 2, 
         "tools/gitbook-guide.md": 4, 
         "tools/ssh.md": 2, 
         "w0/w0n1.md": 3, 
         "33": 2, 
         "tools/how-to-use-markdown.md": 1, 
         "w0/w0n3.md": 1, 
+        "tools/how-to-use-github-desktop-app.md": 3, 
         "lvyao": 4, 
         "1zhi/\u65f6\u95f4\u8bb0\u5f55\u548c\u5206\u6790.md": 1, 
         "tengteng": 5, 
         "1zhi": 1, 
         "w0": 7, 
-        "1zhi/\u5b66\u4e60\u8282\u594f\u517b\u6210.md": 2, 
+        "1zhi/\u5b66\u4e60\u8282\u594f\u517b\u6210.md": 3, 
         "tools": 6, 
         "w0/mind-brainstorm.md": 4
     }
