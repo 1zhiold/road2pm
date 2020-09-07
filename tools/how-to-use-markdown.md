@@ -94,3 +94,7 @@ Markdown是一种非常简单好用的本文标记语言，对于新手来说，
 ![图片的alt信息，可空](图片的url)
 ```
 
+## 其他
+可参考的 Markdown 使用教程：
+* https://www.runoob.com/markdown/md-tutorial.html
+
