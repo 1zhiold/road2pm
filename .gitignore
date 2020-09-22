@@ -3,3 +3,4 @@
 .markeditor/
 *.swp
 *.swo
+configs/sorts.json
